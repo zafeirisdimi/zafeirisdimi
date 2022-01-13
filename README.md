@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/D_zafe?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/7ltN7lCgF2MQE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/life-best-7ltN7lCgF2MQE">via GIPHY</a></p>
+<img align="right" alt="gif" width="500px" height="200" src="https://giphy.com/embed/7ltN7lCgF2MQE" />
 
 ## Entry-level Web Developer, currently seeking new work opportunities.
 
