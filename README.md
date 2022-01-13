@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/D_zafe?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-<img align="right" alt="gif" width="500px" height="200" src="https://github.com/dimizafe/dimizafe/blob/main/giphy%20(1).gif" />
+<img align="right" alt="gif" width="500px" height="250" src="https://github.com/dimizafe/dimizafe/blob/main/giphy%20(1).gif" />
 
 ## Entry-level Web Developer, currently seeking new work opportunities.
 
