@@ -2,6 +2,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/D_zafe?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
+<p aling="right"><iframe  src="https://giphy.com/embed/7ltN7lCgF2MQE" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></p>
+
 ## Entry-level Web Developer, currently seeking new work opportunities.
 
 - 🔭 Still loading....
