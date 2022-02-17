@@ -4,7 +4,7 @@
 
 <img align="right" alt="gif" width="450px" height="300" src="https://github.com/dimizafe/dimizafe/blob/main/giphy%20(2).gif" />
 
-## Entry-level Web Developer, currently seeking new work opportunities.
+## Web Developer, currently seeking new work opportunities.
 
 - 🔭 Still loading....
 - 🌱 I’m currently learning everything 🤣
