@@ -39,7 +39,7 @@
 
 ---
 
-[website]: https://dimizafe.github.io
+[website]: https://github.com/zafeirisdimi
 [twitter]: https://twitter.com/D_zafe
 [instagram]: https://www.instagram.com/d_zafe
 [facebook]: https://www.facebook.com/dimizafe
