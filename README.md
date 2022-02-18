@@ -1,4 +1,4 @@
-### Hi there, I'm [Dimitris][website] 👋 
+# Hi there, I'm [Dimitris][website] 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/D_zafe?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
@@ -19,6 +19,7 @@
 [<img align="left" alt="Dimitris Zafeiris | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Dimitris Zafeiris | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
 <br />
 
 ### Languages and Tools (with their official links):
@@ -44,6 +45,7 @@
 [instagram]: https://www.instagram.com/d_zafe
 [facebook]: https://www.facebook.com/dimizafe
 [linkedin]: https://www.linkedin.com/in/dzafe
+[codepen]: https://codepen.io/dimizafe
 
 [visualstudioofficial]: https://code.visualstudio.com
 [html5official]: https://html5.org
@@ -56,3 +58,4 @@
 [mysql]: https://www.mysql.com/
 [nodejsoficial]: https://nodejs.org/en/
 [sql]: https://www.w3schools.com/sql/sql_intro.asp
+
