@@ -1,6 +1,5 @@
 # Hi there, I'm [Dimitris][website] 👋 
 
-
 <img align="right" alt="gif" width="450px" height="350" src="https://github.com/dimizafe/dimizafe/blob/main/giphy%20(2).gif" />
 
 ## Web Developer, currently seeking new work opportunities.
@@ -33,8 +32,6 @@
 [<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][gitoficial]
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][githuboficial]
-
-<br />
 <br />
 
 ---
