@@ -1,6 +1,4 @@
-# Hi there, 
-I'm [Dimitris][website] 👋 
-
+# Hi there, I'm [Dimitris][website] 👋 
 
 
 <img align="right" alt="gif" width="450px" height="350" src="https://github.com/dimizafe/dimizafe/blob/main/giphy%20(2).gif" />
