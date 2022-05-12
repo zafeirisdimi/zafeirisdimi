@@ -2,7 +2,7 @@
 
 <img align="right" alt="gif" width="450px" height="350" src="https://github.com/dimizafe/dimizafe/blob/main/giphy%20(2).gif" />
 
-## Web Developer, currently seeking new work opportunities.
+## Junior Software Developer, currently seeking new work opportunities.
 
 - 🔭 Still loading....
 - 🌱 I’m currently learning everything 🤣
