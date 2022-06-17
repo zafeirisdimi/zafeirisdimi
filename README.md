@@ -4,8 +4,8 @@
 
 ## Junior Software Developer, currently seeking new work opportunities.
 
-- 🔭 Still loading....
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I participate at Cooding Bootcamp
+- 🌱 I’m currently learning ASP.NET MVC and Entity Framework 🤣
 - 👯 I’m looking to collaborate with other content creators and extend my digital skills.
 - 🥅 2022 Goals: Find the perfect digital job to accomplish my life exptectations.
 - ⚡ Fun fact: I love to watch Action Movies.
