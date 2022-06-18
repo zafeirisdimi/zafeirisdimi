@@ -4,7 +4,7 @@
 
 ## Junior Software Developer, currently seeking new work opportunities.
 
-- 🔭 I participate at Cooding Bootcamp
+- 🔭 I participate at Coding Bootcamp PeopleCert Athens Greece 🏛️
 - 🌱 I’m currently learning ASP.NET MVC and Entity Framework 🤣
 - 👯 I’m looking to collaborate with other content creators and extend my digital skills.
 - 🥅 2022 Goals: Find the perfect digital job to accomplish my life exptectations.
