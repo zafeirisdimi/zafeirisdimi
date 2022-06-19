@@ -8,16 +8,15 @@
 - 🌱 I’m currently learning ASP.NET MVC and Entity Framework 🤣
 - 👯 I’m looking to collaborate with other content creators and extend my digital skills.
 - 🥅 2022 Goals: Find the perfect digital job to accomplish my life exptectations.
-- ⚡ Fun fact: I love to watch Action Movies.
+- ⚡ Fun fact: I love to watch Action Movies and drink my lovely Freddo Espresso near the sea
 
 ### Connect with me:
 
-[<img align="left" alt="resume" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="D_zafe | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Dimitris Zafeiris | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Dimitris Zafeiris | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
+
 <br />
 
 ### Languages and Tools (with their official links):
@@ -41,7 +40,7 @@
 [instagram]: https://www.instagram.com/d_zafe
 [facebook]: https://www.facebook.com/dimizafe
 [linkedin]: https://www.linkedin.com/in/dzafe
-[codepen]: https://codepen.io/dimizafe
+
 
 [visualstudioofficial]: https://code.visualstudio.com
 [html5official]: https://html5.org
