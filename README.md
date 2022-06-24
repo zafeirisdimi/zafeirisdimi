@@ -33,7 +33,11 @@
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][githuboficial]
 <br />
 
----
+----
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zafeirisdimi&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+----
 
 [website]: https://github.com/zafeirisdimi
 [twitter]: https://twitter.com/D_zafe
