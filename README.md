@@ -34,8 +34,16 @@
 <br />
 
 ----
- 
+
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=zafeirisdimi&count_private=true&show_icons=true&hide=contribs)
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zafeirisdimi&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zafeirisdimi&layout=compact)
+
 
 ----
 
