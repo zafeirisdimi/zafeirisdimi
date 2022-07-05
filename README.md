@@ -27,7 +27,12 @@
 <a href="https://git-scm.com/"><img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>
 <a href="https://github.com/"><img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>
 <br /></p>
-<hr>
+<hr/>
 <p><img src="https://github-readme-stats.vercel.app/api?username=zafeirisdimi&amp;count_private=true&amp;show_icons=true&amp;hide=contribs" alt="Overall Stats"><a href="https://git.io/streak-stats"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=zafeirisdimi&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"></a></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafeirisdimi&amp;layout=compact" alt="Top Langs"></p>
-<hr>
+
+![Codewars](https://github.r2v.ch/codewars?user=d_zafe&stroke=%23BB432C)
+
+<hr/>
+
+
