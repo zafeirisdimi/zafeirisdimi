@@ -1,5 +1,5 @@
 <h1 id="hi-there-i-m-dimitris-website-">Hi there, I&#39;m <a href="https://github.com/zafeirisdimi">Dimitris</a> 👋</h1>
-<p><img align="right" alt="gif" width="450px" height="350" src="https://github.com/dimizafe/dimizafe/blob/main/giphy%20(2).gif" /></p>
+<p><img align="right" alt="gif" width="450px" height="auto" src="https://github.com/dimizafe/dimizafe/blob/main/giphy%20(2).gif" /></p>
 <h2 id="junior-software-developer-currently-seeking-new-work-opportunities-">Junior Software Developer, currently seeking new work opportunities.</h2>
 <ul align="left">
 <li>🔭 I participate at Coding Bootcamp PeopleCert Athens Greece 🏛️</li>
@@ -9,11 +9,13 @@
 <li>⚡ Fun fact: I love to watch Action Movies and drink my lovely Freddo Espresso near the sea</li>
 </ul>
 <h3 id="connect-with-me-">Connect with me:</h3>
-<p><a href="https://twitter.com/D_zafe"><img align="left" alt="D_zafe | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<p>
+<a href="https://twitter.com/D_zafe"><img align="left" alt="D_zafe | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/dzafe"><img align="left" alt="Dimitris Zafeiris | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/d_zafe"><img align="left" alt="Dimitris Zafeiris | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://www.facebook.com/dimizafe"><img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a></p>
-<p><br /></p>
+<a href="https://www.facebook.com/dimizafe"><img align="left" alt="Dimitris Zafeiris | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+</p>
+<br/>
 <h3 id="languages-and-tools-with-their-official-links-">Languages and Tools (with their official links):</h3>
 <p><a href="https://code.visualstudio.com"><img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
 <a href="https://html5.org"><img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
@@ -31,8 +33,5 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=zafeirisdimi&amp;count_private=true&amp;show_icons=true&amp;hide=contribs" alt="Overall Stats"><a href="https://git.io/streak-stats"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=zafeirisdimi&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"></a></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafeirisdimi&amp;layout=compact" alt="Top Langs"></p>
 
+
 ![Codewars](https://github.r2v.ch/codewars?user=d_zafe&name=true&top_languages=true&stroke=%23BB432C)
-
-<hr/>
-
-
