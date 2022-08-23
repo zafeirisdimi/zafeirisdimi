@@ -37,8 +37,24 @@
 <br />
 </p>
 <hr/>
-<p><img src="https://github-readme-stats.vercel.app/api?username=zafeirisdimi&amp;count_private=true&amp;show_icons=true&amp;hide=contribs" alt="Overall Stats"><a href="https://git.io/streak-stats"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=zafeirisdimi&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafeirisdimi&amp;layout=compact" alt="Top Langs"></p>
+<details>
+    <summary>Overall Stats</summary>
+    <div>
+        <p><img src="https://github-readme-stats.vercel.app/api?username=zafeirisdimi&amp;count_private=true&amp;show_icons=true&amp;hide=contribs" alt="Overall Stats"><a href="https://git.io/streak-stats"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=zafeirisdimi&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"></a></p>
+    </div>
+</details>
+<details>
+    <summary>Top Langs</summary>
+    <div>
+       <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafeirisdimi&amp;layout=compact" alt="Top Langs"></p>
+    </div>
+</details>
+
+<details>
+    <summary>Codewars</summary>
+    <div>
+        ![Codewars](https://github.r2v.ch/codewars?user=d_zafe&name=true&top_languages=true&stroke=%23BB432C)
+    </div>
+</details>
 
 
-![Codewars](https://github.r2v.ch/codewars?user=d_zafe&name=true&top_languages=true&stroke=%23BB432C)
