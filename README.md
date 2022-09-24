@@ -38,22 +38,26 @@
 </p>
 <hr/>
 <details>
-    <summary>Overall Stats</summary>
+    <summary><strong>Overall Stats</strong></summary>
     <div>
+    <br/>
         <p><img src="https://github-readme-stats.vercel.app/api?username=zafeirisdimi&amp;count_private=true&amp;show_icons=true&amp;hide=contribs" alt="Overall Stats"><a href="https://git.io/streak-stats"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=zafeirisdimi&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"></a></p>
     </div>
 </details>
+<br/>
 <details>
-    <summary>Top Langs</summary>
+    <summary><strong>Top Langs</strong></summary>
     <div>
+    <br/>
        <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafeirisdimi&amp;layout=compact" alt="Top Langs"></p>
     </div>
 </details>
-
+<br/>
 <details>
-    <summary>Codewars</summary>
+    <summary><strong>Codewars</strong></summary>
+    
     <div>
-        ![Codewars](https://github.r2v.ch/codewars?user=d_zafe&name=true&top_languages=true&stroke=%23BB432C)
+        <p><img src="https://github.r2v.ch/codewars?user=d_zafe&name=true&top_languages=true&stroke=%23BB432C)" alt="Codewars"></p>
     </div>
 </details>
 
