@@ -55,10 +55,9 @@
 <br/>
 <details>
     <summary><strong>Codewars</strong></summary>
+    <br/>
+        <img src="https://github.r2v.ch/codewars?user=d_zafe&name=true&top_languages=true&stroke=%23BB432C)">
     
-    <div>
-        <p><img src="https://github.r2v.ch/codewars?user=d_zafe&name=true&top_languages=true&stroke=%23BB432C)" alt="Codewars"></p>
-    </div>
 </details>
 
 
