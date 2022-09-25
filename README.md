@@ -37,6 +37,7 @@
 <br />
 </p>
 <hr/>
+<br/>
 <details>
     <summary><strong>Overall Stats</strong></summary>
     <div>
