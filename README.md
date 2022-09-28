@@ -61,4 +61,4 @@
     
 </details>
 
-
+![snake gif](https://github.com/zafeirisdimi/zafeirisdimi/blob/output/github-contribution-grid-snake.gif)
