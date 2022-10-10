@@ -60,5 +60,12 @@
         <img src="https://github.r2v.ch/codewars?user=d_zafe&name=true&top_languages=true&stroke=%23BB432C)">
     
 </details>
+<br/>
+<details>
+    <summary><strong>Fun-Snake</strong></summary>
+    <br/>
+        ![snake gif](https://github.com/zafeirisdimi/zafeirisdimi/blob/output/github-contribution-grid-snake.gif)
+    
+</details>
 
-![snake gif](https://github.com/zafeirisdimi/zafeirisdimi/blob/output/github-contribution-grid-snake.gif)
+
