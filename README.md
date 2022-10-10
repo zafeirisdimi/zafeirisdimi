@@ -46,7 +46,7 @@
 <details>
     <summary><strong>📊 Overall Stats</strong></summary>
     <div align="center">
-        <p><img src="https://github-readme-stats.vercel.app/api?username=zafeirisdimi&amp;count_private=true&amp;show_icons=true&amp;hide=contribs" alt="Overall Stats"><a href="https://git.io/streak-stats"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=zafeirisdimi&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"></a></p>
+        <img src="https://github-readme-stats.vercel.app/api?username=zafeirisdimi&amp;count_private=true&amp;show_icons=true&amp;hide=contribs" alt="Overall Stats"><a href="https://git.io/streak-stats"><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=zafeirisdimi&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"></a>
     </div>
 </details>
 <br/>
