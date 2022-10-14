@@ -11,7 +11,7 @@
 <br/>
 <h3 id="connect-with-me-" align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/dimizafe)"><img  alt="Dimitris Zafeiris | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/dimizafe/"><img  alt="Dimitris Zafeiris | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.facebook.com/dimizafe/"><img alt="Dimitris Zafeiris | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 <a href="mailto:kremou115@gmail.com"><img alt="Dimitris Zafeiris | Email" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 </p>
