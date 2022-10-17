@@ -14,6 +14,8 @@
 <a href="https://www.linkedin.com/in/dimizafe/"><img  alt="Dimitris Zafeiris | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.facebook.com/dimizafe/"><img alt="Dimitris Zafeiris | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 <a href="mailto:kremou115@gmail.com"><img alt="Dimitris Zafeiris | Email" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+<a href="https://dev.to/dimizafeiri" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/devdotto.svg" alt="dimizafeiri" width="40px" /></a>
+<a href="https://discord.gg/dzafeiris#5685" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="dzafeiris#5685"  width="40px" /></a>
 </p>
 <hr/>
 <br/>
