@@ -73,5 +73,13 @@
         
    
 </details>
+<hr/>
+<details>
+    <summary>🔖<strong><i>My Dev.to Card</i></strong></summary>
+    <p align="center">
+        <a href="https://app.daily.dev/dimizafeiri"><img src="https://api.daily.dev/devcards/abc1e4c64a3047028deed7692cc79dd7.png?r=cr7" width="380" alt="Dimitris Zafeiris's Dev Card"/></a>
+    </p>
+</details>
+
 
 
