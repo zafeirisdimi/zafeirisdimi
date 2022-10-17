@@ -13,9 +13,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/dimizafe/"><img  alt="Dimitris Zafeiris | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.facebook.com/dimizafe/"><img alt="Dimitris Zafeiris | Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href="mailto:kremou115@gmail.com"><img alt="Dimitris Zafeiris | Email" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-<a href="https://dev.to/dimizafeiri" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/devdotto.svg" alt="dimizafeiri" width="40px" /></a>
-<a href="https://discord.gg/dzafeiris#5685" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="dzafeiris#5685"  width="40px" /></a>
+<a href="mailto:kremou115@gmail.com"><img alt="Dimitris Zafeiris | Email" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a> 
+<a href="https://dev.to/dimizafeiri"><img src="https://github.com/simple-icons/simple-icons/blob/3f99027ba3250f75a8699228d40b9720ffa79090/icons/devdotto.svg" alt="Dimitris Zafeiris | Dev.to" width="44px" /></a>  
+<a href="https://discord.gg/dzafeiris#5685"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="Dimitris Zafeiris | Discord"  width="42px" /></a>
 </p>
 <hr/>
 <br/>
