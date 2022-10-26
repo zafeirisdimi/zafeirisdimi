@@ -83,5 +83,9 @@
     </p>
 </details>
 
+    
+<p align="right"><i>
+🙏🧡 <strong>Special thanks to </strong><span><a href="https://simpleicons.org/"><img alt="Simple Icons" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/simpleicons.svg" /></a></span></i></p>
+   
 
 
