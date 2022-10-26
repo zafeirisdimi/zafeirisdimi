@@ -40,6 +40,7 @@
 <a href="https://www.mysql.com/"><img  alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 <a href="https://www.microsoft.com/en-ww/microsoft-teams/log-in"><img alt="Microsoft Teams" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftteams.svg" /></a>
+<a href="https://www.notion.so/"><img alt="Notion" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg" /></a>
 <a href="https://www.canva.com/"><img  alt="Canva" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/canva.svg" /></a>
 <a href="https://www.microsoft.com/el-gr/software-download/windows10"><img  alt="Windows" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/windows.svg" /></a>
 <a href="https://ubuntu.com/"><img  alt="Ubuntu" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ubuntu.svg" /></a>
