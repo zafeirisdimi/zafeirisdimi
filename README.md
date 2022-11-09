@@ -50,7 +50,7 @@
 <details>
     <summary><strong>📊 Overall Stats</strong></summary>
     <div align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=zafeirisdimi&amp;count_private=true&amp;show_icons=true&amp;hide=contribs" alt="Overall Stats"> & <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zafeirisdimi&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"></a>  
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=zafeirisdimi&theme=transparent&show_icons=true;hide=contribs" alt="Overall Stats"> & <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=zafeirisdimi&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"></a>  
     </div>
 </details>
 <br/>
@@ -82,6 +82,17 @@
         <a href="https://app.daily.dev/dimizafeiri"><img src="https://api.daily.dev/devcards/abc1e4c64a3047028deed7692cc79dd7.png?r=cr7" width="380" alt="Dimitris Zafeiris's Dev Card"/></a>
     </p>
 </details>
+ 
+<br/>
+<details>
+    <summary><strong>🤣 🐍Snake eats my constributions</strong></summary>
+    
+![snake gif](https://github.com/zafeirisdimi/zafeirisdimi/blob/output/github-contribution-grid-snake.gif)
+        
+   
+</details>   
+
+
 
     
 <p align="right"><i>
