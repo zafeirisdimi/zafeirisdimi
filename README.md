@@ -21,23 +21,23 @@
 <br/>
 <h3 id="languages-and-tools-with-their-official-links-" align="center">Languages and Tools (with their official links):</h3>
 <p align="center">
-<a href="https://html5.org"><img  alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css"><img  alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img  alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<a href="https://html5.org"><img  alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png#gh-light-mode-only)" /></a>
+<a href="https://www.w3schools.com/css"><img  alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png#gh-light-mode-only)" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img  alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png#gh-light-mode-only)" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg#gh-light-mode-only)" alt="typescript" width="40" height="40"/>
 <a href="https://angular.io/"><img  alt="Angular" width="40px" src="https://user-images.githubusercontent.com/25181517/117447798-3c557a00-af3e-11eb-9097-15de64b078de.png" /></a>
-<a href="https://reactjs.org"><img  alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
-<a href="https://getbootstrap.com/"><img  alt="Bootstrap" width="40px" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" /></a>
+<a href="https://reactjs.org"><img  alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png#gh-light-mode-only)" /></a>
+<a href="https://getbootstrap.com/"><img  alt="Bootstrap" width="40px" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png#gh-light-mode-only)" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img  alt="C#" width="40px" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" /></a>
 <a href="https://dotnet.microsoft.com/"><img  alt=".NET" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg" /></a>
 <a href="https://wordpress.com/"><img alt="WordPress" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg" /></a>
 <a href="https://visualstudio.microsoft.com/"><img alt="Visual_studio" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudio.svg"/></a>
-<a href="https://code.visualstudio.com"><img alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
+<a href="https://code.visualstudio.com"><img alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png#gh-light-mode-only)" /></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><a href="https://git-scm.com/"><img  alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>
-<a href="https://github.com/"><img  alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>
+<a href="https://github.com/"><img  alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png#gh-light-mode-only)" /></a>
 <a href="https://www.markdownguide.org/"><img  alt="Markdown" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/markdown.svg" /></a>
-<a href="https://www.w3schools.com/sql/sql_intro.asp"><img  alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
-<a href="https://www.mysql.com/"><img  alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></a>
+<a href="https://www.w3schools.com/sql/sql_intro.asp"><img  alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png#gh-light-mode-only)" /></a>
+<a href="https://www.mysql.com/"><img  alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png#gh-light-mode-only)" /></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 <a href="https://www.microsoft.com/en-ww/microsoft-teams/log-in"><img alt="Microsoft Teams" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftteams.svg" /></a>
 <a href="https://www.notion.so/"><img alt="Notion" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg" /></a>
