@@ -2,8 +2,8 @@
 <p><img align="right" alt="myself at work" width="325px" height="auto" src="https://github.com/dimizafe/dimizafe/blob/main/giphy%20(2).gif" /></p>
 <h2 id="junior-software-developer-currently-seeking-new-work-opportunities-">Junior Software Developer, currently seeking new work opportunities.</h2>
 <ul align="left">
-<li>🔭 I participate at Coding Bootcamp PeopleCert Athens Greece 🏛️</li>
-<li>🌱 I’m currently learning Angular Framework </li>
+<li>🔭 I participated at Start School Of Code in the Front end Bootcamp 🏛️</li>
+<li>🌱 I’m currently learning React Framework </li>
 <li>👯 I’m looking to collaborate with other content creators and extend my digital skills.</li>
 <li>🥅 2022 Goals: Find the perfect digital job to accomplish my life exptectations.</li>
 <li>⚡ Fun fact: I love to watch Action Movies.🎞️</li>
